@@ -30,8 +30,7 @@ def __build_word_affect__(self):
     for word in affect_list:
         affect_frequencies[word] += 1
     sum_values = sum(affect_frequencies.values())
-    affect_percent = {'fear': 0.0, 'anger': 0.0, 'anticipation': 0.0, 'trust': 0.0, 'surprise': 0.0, 'positive': 0.0,
-                      'negative': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0}
+    affect_percent = {'fear': 0.0, 'anger': 0.0, 'anticipation': 0.0, 'trust': 0.0, 'surprise': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'joy': 0.0, 'aggression': 0.0, 'alarm': 0.0,'contempt': 0.0, 'disappointment': 0.0, 'love': 0.0, 'optimism': 0.0, 'remorse': 0.0, 'submission': 0.0, 'curiosity': 0.0, 'cynism': 0.0, 'despair': 0.0, 'envy': 0.0, 'hope': 0.0, 'pride': 0.0, 'unbelief': 0.0, 'anxiety': 0.0, 'delight': 0.0, 'dominance': 0.0, 'morbidness': 0.0, 'outrage': 0.0, 'pessimism': 0.0, 'sentimentality': 0.0, 'shame': 0.0, 'ambivalence': 0.0, 'bittersweetness': 0.0, 'confusion': 0.0,'frozenness': 0.0}
     for key in affect_frequencies.keys():
         affect_percent.update({key: float(affect_frequencies[key]) / float(sum_values)})
     self.affect_list = affect_list
@@ -56,7 +55,7 @@ def top_emotions(self):
 class NRCLex:
     """Lexicon source is (C) 2016 National Research Council Canada (NRC) and library is for research purposes only.  Source: http://sentiment.nrc.ca/lexicons-for-research/"""
 
-    def __init__(self, lexicon_file='nrc_en.json'):
+    def __init__(self, lexicon_file='heritage_dict.json'):
         with open(lexicon_file, 'r') as json_file:
             self.__lexicon__ = load(json_file)
 

@@ -1,0 +1,3877 @@
+{
+  "abrupt": [
+    "surprise",
+    "sadness",
+    "disappointment"
+  ],
+  "absent": [
+    "sadness",
+    "disgust",
+    "remorse"
+  ],
+  "abundance": [
+    "anticipation",
+    "trust",
+    "hope"
+  ],
+  "academic": [
+    "trust",
+    "anticipation",
+    "hope"
+  ],
+  "accessible": [
+    "joy",
+    "trust",
+    "love"
+  ],
+  "accident": [
+    "fear",
+    "sadness",
+    "despair"
+  ],
+  "accomplish": [
+    "joy",
+    "trust",
+    "love"
+  ],
+  "accomplishment": [
+    "joy",
+    "trust",
+    "love"
+  ],
+  "accord": [
+    "trust",
+    "anticipation",
+    "hope"
+  ],
+  "account": [
+    "trust",
+    "anticipation",
+    "hope"
+  ],
+  "accurate": [
+    "trust",
+    "joy",
+    "love"
+  ],
+  "ache": [
+    "sadness",
+    "fear",
+    "despair"
+  ],
+  "achieve": [
+    "joy",
+    "trust",
+    "love"
+  ],
+  "achievement": [
+    "anticipation",
+    "trust",
+    "hope"
+  ],
+  "admirable": [
+    "joy",
+    "trust",
+    "love"
+  ],
+  "admiral": [
+    "trust",
+    "fear",
+    "submission"
+  ],
+  "admire": [
+    "trust",
+    "joy",
+    "love"
+  ],
+  "adore": [
+    "joy",
+    "trust",
+    "love"
+  ],
+  "advance": [
+    "anticipation",
+    "fear",
+    "anxiety"
+  ],
+  "advantage": [
+    "joy",
+    "anticipation",
+    "optimism"
+  ],
+  "adventure": [
+    "anticipation",
+    "surprise",
+    "confusion"
+  ],
+  "advice": [
+    "trust",
+    "anger",
+    "dominance"
+  ],
+  "advise": [
+    "trust",
+    "anger",
+    "dominance"
+  ],
+  "afford": [
+    "joy",
+    "anticipation",
+    "optimism"
+  ],
+  "alive": [
+    "anticipation",
+    "joy",
+    "optimism"
+  ],
+  "alliance": [
+    "trust",
+    "joy",
+    "love"
+  ],
+  "amaze": [
+    "surprise",
+    "joy",
+    "delight"
+  ],
+  "amazingly": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "ambition": [
+    "anticipation",
+    "joy",
+    "optimism"
+  ],
+  "ambulance": [
+    "fear",
+    "trust",
+    "submission"
+  ],
+  "amuse": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "ancient": [
+    "trust",
+    "surprise",
+    "curiosity"
+  ],
+  "angry": [
+    "anger",
+    "disgust",
+    "contempt"
+  ],
+  "annoy": [
+    "anger",
+    "disgust",
+    "contempt"
+  ],
+  "anxious": [
+    "anticipation",
+    "fear",
+    "anxiety"
+  ],
+  "appeal": [
+    "anticipation",
+    "joy",
+    "optimism"
+  ],
+  "appreciation": [
+    "joy",
+    "trust",
+    "love"
+  ],
+  "apprehensive": [
+    "anticipation",
+    "fear",
+    "anxiety"
+  ],
+  "approve": [
+    "joy",
+    "trust",
+    "love"
+  ],
+  "archaeology": [
+    "trust",
+    "surprise",
+    "curiosity"
+  ],
+  "architecture": [
+    "trust",
+    "surprise",
+    "curiosity"
+  ],
+  "artistic": [
+    "trust",
+    "surprise",
+    "curiosity"
+  ],
+  "ashamed": [
+    "disgust",
+    "anger",
+    "contempt"
+  ],
+  "assist": [
+    "trust",
+    "anticipation",
+    "hope"
+  ],
+  "assistance": [
+    "trust",
+    "anticipation",
+    "hope"
+  ],
+  "assure": [
+    "trust",
+    "anticipation",
+    "hope"
+  ],
+  "astonishingly": [
+    "surprise",
+    "joy",
+    "delight"
+  ],
+  "attack": [
+    "anger",
+    "anticipation",
+    "aggression"
+  ],
+  "attention": [
+    "anticipation",
+    "trust",
+    "hope"
+  ],
+  "attentive": [
+    "trust",
+    "joy",
+    "love"
+  ],
+  "attraction": [
+    "surprise",
+    "trust",
+    "curiosity"
+  ],
+  "augment": [
+    "surprise",
+    "trust",
+    "curiosity"
+  ],
+  "austere": [
+    "fear",
+    "trust",
+    "submission"
+  ],
+  "authentic": [
+    "trust",
+    "surprise",
+    "curiosity"
+  ],
+  "averse": [
+    "anger",
+    "disgust",
+    "contempt"
+  ],
+  "avoid": [
+    "sadness",
+    "disgust",
+    "remorse"
+  ],
+  "await": [
+    "anticipation",
+    "joy",
+    "optimism"
+  ],
+  "awful": [
+    "anger",
+    "disgust",
+    "contempt"
+  ],
+  "balance": [
+    "joy",
+    "trust",
+    "love"
+  ],
+  "bargain": [
+    "surprise",
+    "joy",
+    "delight"
+  ],
+  "barrier": [
+    "surprise",
+    "sadness",
+    "disappointment"
+  ],
+  "beast": [
+    "anger",
+    "fear",
+    "frozenness"
+  ],
+  "beautiful": [
+    "joy",
+    "trust",
+    "love"
+  ],
+  "beauty": [
+    "joy",
+    "trust",
+    "love"
+  ],
+  "beer": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "behemoth": [
+    "anger",
+    "disgust",
+    "contempt"
+  ],
+  "benefit": [
+    "joy",
+    "anticipation",
+    "optimism"
+  ],
+  "beware": [
+    "anticipation",
+    "fear",
+    "anxiety"
+  ],
+  "birthday": [
+    "anticipation",
+    "joy",
+    "optimism"
+  ],
+  "blame": [
+    "anger",
+    "disgust",
+    "contempt"
+  ],
+  "bland": [
+    "surprise",
+    "sadness",
+    "disappointment"
+  ],
+  "bless": [
+    "anticipation",
+    "joy",
+    "optimism"
+  ],
+  "bloody": [
+    "anger",
+    "disgust",
+    "contempt"
+  ],
+  "bluff": [
+    "surprise",
+    "sadness",
+    "disappointment"
+  ],
+  "blur": [
+    "surprise",
+    "sadness",
+    "disappointment"
+  ],
+  "bombard": [
+    "anger",
+    "disgust",
+    "contempt"
+  ],
+  "bonus": [
+    "anticipation",
+    "joy",
+    "optimism"
+  ],
+  "bore": [
+    "disgust",
+    "sadness",
+    "remorse"
+  ],
+  "bother": [
+    "anger",
+    "disgust",
+    "contempt"
+  ],
+  "bravery": [
+    "anger",
+    "joy",
+    "pride"
+  ],
+  "brighten": [
+    "joy",
+    "trust",
+    "love"
+  ],
+  "brilliant": [
+    "surprise",
+    "joy",
+    "delight"
+  ],
+  "budget": [
+    "anticipation",
+    "joy",
+    "optimism"
+  ],
+  "cancel": [
+    "sadness",
+    "surprise",
+    "disappointment"
+  ],
+  "captain": [
+    "trust",
+    "fear",
+    "submission"
+  ],
+  "captivate": [
+    "surprise",
+    "joy",
+    "delight"
+  ],
+  "carcass": [
+    "fear",
+    "surprise",
+    "alarm"
+  ],
+  "careful": [
+    "anticipation",
+    "trust",
+    "hope"
+  ],
+  "carefully": [
+    "anticipation",
+    "trust",
+    "hope"
+  ],
+  "cash": [
+    "surprise",
+    "sadness",
+    "disappointment"
+  ],
+  "cathedral": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "caution": [
+    "sadness",
+    "anticipation",
+    "pessimism"
+  ],
+  "cautious": [
+    "anticipation",
+    "sadness",
+    "pessimism"
+  ],
+  "celebration": [
+    "anticipation",
+    "joy",
+    "optimism"
+  ],
+  "certify": [
+    "trust",
+    "anticipation",
+    "hope"
+  ],
+  "challenge": [
+    "anger",
+    "fear",
+    "frozenness"
+  ],
+  "chance": [
+    "surprise",
+    "joy",
+    "delight"
+  ],
+  "charity": [
+    "joy",
+    "sadness",
+    "bittersweetness"
+  ],
+  "charm": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "chase": [
+    "surprise",
+    "sadness",
+    "disappointment"
+  ],
+  "cheap": [
+    "surprise",
+    "joy",
+    "delight"
+  ],
+  "cheer": [
+    "surprise",
+    "joy",
+    "delight"
+  ],
+  "cheerful": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "choice": [
+    "surprise",
+    "trust",
+    "curiosity"
+  ],
+  "chronicle": [
+    "trust",
+    "surprise",
+    "curiosity"
+  ],
+  "clean": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "clever": [
+    "trust",
+    "surprise",
+    "curiosity"
+  ],
+  "closure": [
+    "surprise",
+    "sadness",
+    "disappointment"
+  ],
+  "coherent": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "coincidence": [
+    "surprise",
+    "joy",
+    "delight"
+  ],
+  "cold": [
+    "sadness",
+    "surprise",
+    "disappointment"
+  ],
+  "collapse": [
+    "disgust",
+    "fear",
+    "shame"
+  ],
+  "comfort": [
+    "joy",
+    "trust",
+    "love"
+  ],
+  "commend": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "commendable": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "communication": [
+    "trust",
+    "anticipation",
+    "hope"
+  ],
+  "community": [
+    "trust",
+    "joy",
+    "love"
+  ],
+  "companion": [
+    "joy",
+    "trust",
+    "love"
+  ],
+  "competition": [
+    "anticipation",
+    "anger",
+    "aggression"
+  ],
+  "complain": [
+    "anger",
+    "surprise",
+    "outrage"
+  ],
+  "complaint": [
+    "anger",
+    "surprise",
+    "outrage"
+  ],
+  "complicate": [
+    "surprise",
+    "sadness",
+    "disappointment"
+  ],
+  "complication": [
+    "sadness",
+    "surprise",
+    "disappointment"
+  ],
+  "compliment": [
+    "anticipation",
+    "joy",
+    "optimism"
+  ],
+  "comprehensive": [
+    "anticipation",
+    "joy",
+    "optimism"
+  ],
+  "confidence": [
+    "trust",
+    "joy",
+    "love"
+  ],
+  "confident": [
+    "trust",
+    "anger",
+    "dominance"
+  ],
+  "confine": [
+    "anger",
+    "fear",
+    "frozenness"
+  ],
+  "conflict": [
+    "anger",
+    "surprise",
+    "outrage"
+  ],
+  "confront": [
+    "anger",
+    "anticipation",
+    "aggression"
+  ],
+  "confuse": [
+    "surprise",
+    "anger",
+    "outrage"
+  ],
+  "confusion": [
+    "surprise",
+    "anger",
+    "outrage"
+  ],
+  "conjure": [
+    "surprise",
+    "fear",
+    "alarm"
+  ],
+  "conservation": [
+    "anticipation",
+    "trust",
+    "hope"
+  ],
+  "conserve": [
+    "anticipation",
+    "trust",
+    "hope"
+  ],
+  "conspiracy": [
+    "disgust",
+    "anticipation",
+    "cynism"
+  ],
+  "constraint": [
+    "surprise",
+    "sadness",
+    "disappointment"
+  ],
+  "contagious": [
+    "anticipation",
+    "fear",
+    "anxiety"
+  ],
+  "controversial": [
+    "disgust",
+    "trust",
+    "ambivalence"
+  ],
+  "convenient": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "cool": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "courteous": [
+    "joy",
+    "trust",
+    "love"
+  ],
+  "craft": [
+    "joy",
+    "anticipation",
+    "optimism"
+  ],
+  "cramp": [
+    "sadness",
+    "fear",
+    "despair"
+  ],
+  "crave": [
+    "anticipation",
+    "joy",
+    "optimism"
+  ],
+  "crazy": [
+    "anger",
+    "surprise",
+    "outrage"
+  ],
+  "creative": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "credible": [
+    "trust",
+    "anticipation",
+    "hope"
+  ],
+  "crew": [
+    "trust",
+    "sadness",
+    "sentimentality"
+  ],
+  "cringe": [
+    "disgust",
+    "joy",
+    "morbidness"
+  ],
+  "criticism": [
+    "anger",
+    "anticipation",
+    "aggression"
+  ],
+  "culture": [
+    "anticipation",
+    "joy",
+    "optimism"
+  ],
+  "curiosity": [
+    "trust",
+    "surprise",
+    "curiosity"
+  ],
+  "curse": [
+    "anger",
+    "disgust",
+    "contempt"
+  ],
+  "damage": [
+    "anger",
+    "disgust",
+    "contempt"
+  ],
+  "danger": [
+    "fear",
+    "surprise",
+    "alarm"
+  ],
+  "dangerous": [
+    "fear",
+    "surprise",
+    "alarm"
+  ],
+  "dark": [
+    "sadness",
+    "fear",
+    "despair"
+  ],
+  "darken": [
+    "sadness",
+    "fear",
+    "despair"
+  ],
+  "darkness": [
+    "sadness",
+    "fear",
+    "despair"
+  ],
+  "death": [
+    "sadness",
+    "fear",
+    "despair"
+  ],
+  "debacle": [
+    "fear",
+    "surprise",
+    "alarm"
+  ],
+  "decay": [
+    "sadness",
+    "fear",
+    "despair"
+  ],
+  "decent": [
+    "joy",
+    "trust",
+    "love"
+  ],
+  "deceptive": [
+    "sadness",
+    "surprise",
+    "disappointment"
+  ],
+  "dedication": [
+    "anticipation",
+    "trust",
+    "hope"
+  ],
+  "defeat": [
+    "sadness",
+    "surprise",
+    "disappointment"
+  ],
+  "degrade": [
+    "disgust",
+    "sadness",
+    "remorse"
+  ],
+  "delay": [
+    "sadness",
+    "surprise",
+    "disappointment"
+  ],
+  "delicious": [
+    "joy",
+    "trust",
+    "love"
+  ],
+  "delight": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "delightful": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "demise": [
+    "sadness",
+    "fear",
+    "despair"
+  ],
+  "descriptive": [
+    "disgust",
+    "anticipation",
+    "cynism"
+  ],
+  "despair": [
+    "fear",
+    "sadness",
+    "despair"
+  ],
+  "desperate": [
+    "fear",
+    "sadness",
+    "despair"
+  ],
+  "destruction": [
+    "anger",
+    "anticipation",
+    "aggression"
+  ],
+  "destructive": [
+    "anger",
+    "disgust",
+    "contempt"
+  ],
+  "deteriorate": [
+    "sadness",
+    "fear",
+    "despair"
+  ],
+  "deterioration": [
+    "sadness",
+    "fear",
+    "despair"
+  ],
+  "detract": [
+    "disgust",
+    "anger",
+    "contempt"
+  ],
+  "devastation": [
+    "fear",
+    "sadness",
+    "despair"
+  ],
+  "die": [
+    "fear",
+    "sadness",
+    "despair"
+  ],
+  "difficult": [
+    "fear",
+    "anticipation",
+    "anxiety"
+  ],
+  "difficulties": [
+    "fear",
+    "anticipation",
+    "anxiety"
+  ],
+  "difficulty": [
+    "fear",
+    "anticipation",
+    "anxiety"
+  ],
+  "dignity": [
+    "joy",
+    "sadness",
+    "bittersweetness"
+  ],
+  "diligence": [
+    "trust",
+    "anticipation",
+    "hope"
+  ],
+  "diminish": [
+    "sadness",
+    "fear",
+    "despair"
+  ],
+  "dirty": [
+    "disgust",
+    "anger",
+    "contempt"
+  ],
+  "disability": [
+    "sadness",
+    "anticipation",
+    "pessimism"
+  ],
+  "disable": [
+    "fear",
+    "sadness",
+    "despair"
+  ],
+  "disappear": [
+    "fear",
+    "sadness",
+    "despair"
+  ],
+  "disappoint": [
+    "anger",
+    "disgust",
+    "contempt"
+  ],
+  "disappointment": [
+    "sadness",
+    "surprise",
+    "disappointment"
+  ],
+  "disaster": [
+    "anger",
+    "disgust",
+    "contempt"
+  ],
+  "discovery": [
+    "surprise",
+    "joy",
+    "delight"
+  ],
+  "discriminate": [
+    "sadness",
+    "anger",
+    "envy"
+  ],
+  "discrimination": [
+    "anger",
+    "surprise",
+    "outrage"
+  ],
+  "disease": [
+    "fear",
+    "sadness",
+    "despair"
+  ],
+  "disgrace": [
+    "anger",
+    "surprise",
+    "outrage"
+  ],
+  "disgraceful": [
+    "anger",
+    "surprise",
+    "outrage"
+  ],
+  "disgust": [
+    "disgust",
+    "surprise",
+    "unbelief"
+  ],
+  "disinterested": [
+    "disgust",
+    "sadness",
+    "remorse"
+  ],
+  "dislike": [
+    "anger",
+    "disgust",
+    "contempt"
+  ],
+  "displace": [
+    "sadness",
+    "surprise",
+    "disappointment"
+  ],
+  "displeasure": [
+    "disgust",
+    "anger",
+    "contempt"
+  ],
+  "disregard": [
+    "anger",
+    "surprise",
+    "outrage"
+  ],
+  "disrespect": [
+    "anger",
+    "surprise",
+    "outrage"
+  ],
+  "disrespectful": [
+    "anger",
+    "surprise",
+    "outrage"
+  ],
+  "distract": [
+    "surprise",
+    "disgust",
+    "unbelief"
+  ],
+  "dominate": [
+    "fear",
+    "trust",
+    "submission"
+  ],
+  "doom": [
+    "fear",
+    "sadness",
+    "despair"
+  ],
+  "doubt": [
+    "fear",
+    "anticipation",
+    "anxiety"
+  ],
+  "drawback": [
+    "anger",
+    "disgust",
+    "contempt"
+  ],
+  "dread": [
+    "fear",
+    "sadness",
+    "despair"
+  ],
+  "drown": [
+    "fear",
+    "sadness",
+    "despair"
+  ],
+  "dubious": [
+    "disgust",
+    "trust",
+    "ambivalence"
+  ],
+  "dull": [
+    "disgust",
+    "sadness",
+    "remorse"
+  ],
+  "eager": [
+    "anticipation",
+    "joy",
+    "optimism"
+  ],
+  "ease": [
+    "joy",
+    "anticipation",
+    "optimism"
+  ],
+  "educate": [
+    "trust",
+    "surprise",
+    "curiosity"
+  ],
+  "educational": [
+    "trust",
+    "surprise",
+    "curiosity"
+  ],
+  "effective": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "efficiency": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "efficient": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "elegant": [
+    "joy",
+    "trust",
+    "love"
+  ],
+  "embarrass": [
+    "sadness",
+    "disgust",
+    "remorse"
+  ],
+  "embrace": [
+    "joy",
+    "trust",
+    "love"
+  ],
+  "empathy": [
+    "sadness",
+    "trust",
+    "sentimentality"
+  ],
+  "encourage": [
+    "joy",
+    "anticipation",
+    "optimism"
+  ],
+  "encouragement": [
+    "joy",
+    "anticipation",
+    "optimism"
+  ],
+  "endless": [
+    "disgust",
+    "surprise",
+    "unbelief"
+  ],
+  "endure": [
+    "disgust",
+    "anticipation",
+    "cynism"
+  ],
+  "enemy": [
+    "anger",
+    "disgust",
+    "contempt"
+  ],
+  "energetic": [
+    "joy",
+    "anticipation",
+    "optimism"
+  ],
+  "enhance": [
+    "joy",
+    "anticipation",
+    "optimism"
+  ],
+  "enjoy": [
+    "joy",
+    "trust",
+    "love"
+  ],
+  "enlighten": [
+    "trust",
+    "surprise",
+    "curiosity"
+  ],
+  "enrich": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "entertain": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "entertainment": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "enthusiasm": [
+    "joy",
+    "anticipation",
+    "optimism"
+  ],
+  "enthusiast": [
+    "joy",
+    "anticipation",
+    "optimism"
+  ],
+  "epic": [
+    "trust",
+    "surprise",
+    "curiosity"
+  ],
+  "erosion": [
+    "sadness",
+    "anticipation",
+    "pessimism"
+  ],
+  "error": [
+    "sadness",
+    "surprise",
+    "disappointment"
+  ],
+  "erudite": [
+    "trust",
+    "surprise",
+    "curiosity"
+  ],
+  "erupt": [
+    "anger",
+    "surprise",
+    "outrage"
+  ],
+  "escape": [
+    "anticipation",
+    "fear",
+    "anxiety"
+  ],
+  "evacuate": [
+    "fear",
+    "anticipation",
+    "anxiety"
+  ],
+  "evident": [
+    "trust",
+    "surprise",
+    "curiosity"
+  ],
+  "evil": [
+    "fear",
+    "sadness",
+    "despair"
+  ],
+  "exaggerate": [
+    "disgust",
+    "trust",
+    "ambivalence"
+  ],
+  "excavation": [
+    "trust",
+    "surprise",
+    "curiosity"
+  ],
+  "exceed": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "excellence": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "excellent": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "excite": [
+    "anticipation",
+    "surprise",
+    "confusion"
+  ],
+  "excitement": [
+    "anticipation",
+    "surprise",
+    "confusion"
+  ],
+  "exemplary": [
+    "trust",
+    "anticipation",
+    "hope"
+  ],
+  "exhaust": [
+    "sadness",
+    "anticipation",
+    "pessimism"
+  ],
+  "exhaustion": [
+    "sadness",
+    "anticipation",
+    "pessimism"
+  ],
+  "exhaustive": [
+    "trust",
+    "anticipation",
+    "hope"
+  ],
+  "existence": [
+    "anticipation",
+    "joy",
+    "optimism"
+  ],
+  "expect": [
+    "anticipation",
+    "joy",
+    "optimism"
+  ],
+  "expectation": [
+    "anticipation",
+    "joy",
+    "optimism"
+  ],
+  "expert": [
+    "trust",
+    "surprise",
+    "curiosity"
+  ],
+  "expertise": [
+    "trust",
+    "surprise",
+    "curiosity"
+  ],
+  "expire": [
+    "sadness",
+    "surprise",
+    "disappointment"
+  ],
+  "explain": [
+    "trust",
+    "surprise",
+    "curiosity"
+  ],
+  "explore": [
+    "anticipation",
+    "joy",
+    "optimism"
+  ],
+  "explosion": [
+    "fear",
+    "surprise",
+    "alarm"
+  ],
+  "expose": [
+    "anticipation",
+    "fear",
+    "anxiety"
+  ],
+  "exquisite": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "extensive": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "extraordinary": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "fact": [
+    "trust",
+    "anticipation",
+    "hope"
+  ],
+  "facts": [
+    "trust",
+    "anticipation",
+    "hope"
+  ],
+  "fade": [
+    "sadness",
+    "trust",
+    "sentimentality"
+  ],
+  "fair": [
+    "joy",
+    "trust",
+    "love"
+  ],
+  "familiar": [
+    "anticipation",
+    "joy",
+    "optimism"
+  ],
+  "famous": [
+    "trust",
+    "anticipation",
+    "hope"
+  ],
+  "fancy": [
+    "anticipation",
+    "joy",
+    "optimism"
+  ],
+  "farce": [
+    "disgust",
+    "joy",
+    "morbidness"
+  ],
+  "farcical": [
+    "disgust",
+    "joy",
+    "morbidness"
+  ],
+  "fascination": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "fatal": [
+    "sadness",
+    "fear",
+    "despair"
+  ],
+  "fate": [
+    "sadness",
+    "anticipation",
+    "pessimism"
+  ],
+  "fatigue": [
+    "sadness",
+    "disgust",
+    "remorse"
+  ],
+  "fault": [
+    "anger",
+    "disgust",
+    "contempt"
+  ],
+  "faultless": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "faulty": [
+    "anger",
+    "disgust",
+    "contempt"
+  ],
+  "favorite": [
+    "joy",
+    "anticipation",
+    "optimism"
+  ],
+  "fell": [
+    "sadness",
+    "surprise",
+    "disappointment"
+  ],
+  "festival": [
+    "anticipation",
+    "joy",
+    "optimism"
+  ],
+  "festive": [
+    "joy",
+    "anticipation",
+    "optimism"
+  ],
+  "fire": [
+    "fear",
+    "surprise",
+    "alarm"
+  ],
+  "flesh": [
+    "disgust",
+    "joy",
+    "morbidness"
+  ],
+  "flinch": [
+    "fear",
+    "surprise",
+    "alarm"
+  ],
+  "flood": [
+    "fear",
+    "anticipation",
+    "anxiety"
+  ],
+  "flounder": [
+    "sadness",
+    "fear",
+    "despair"
+  ],
+  "focus": [
+    "anticipation",
+    "trust",
+    "hope"
+  ],
+  "folly": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "force": [
+    "anger",
+    "trust",
+    "dominance"
+  ],
+  "foresight": [
+    "anticipation",
+    "trust",
+    "hope"
+  ],
+  "formidable": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "fortunate": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "fortune": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "fragile": [
+    "fear",
+    "anticipation",
+    "anxiety"
+  ],
+  "freely": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "friend": [
+    "joy",
+    "trust",
+    "love"
+  ],
+  "friendly": [
+    "joy",
+    "trust",
+    "love"
+  ],
+  "frustrate": [
+    "fear",
+    "anticipation",
+    "anxiety"
+  ],
+  "fuss": [
+    "anger",
+    "disgust",
+    "contempt"
+  ],
+  "gasp": [
+    "surprise",
+    "trust",
+    "curiosity"
+  ],
+  "generous": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "genius": [
+    "joy",
+    "trust",
+    "love"
+  ],
+  "genuine": [
+    "trust",
+    "surprise",
+    "curiosity"
+  ],
+  "ghost": [
+    "fear",
+    "surprise",
+    "alarm"
+  ],
+  "ghostly": [
+    "fear",
+    "surprise",
+    "alarm"
+  ],
+  "giant": [
+    "surprise",
+    "trust",
+    "curiosity"
+  ],
+  "glad": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "gloom": [
+    "sadness",
+    "fear",
+    "despair"
+  ],
+  "gloomy": [
+    "sadness",
+    "fear",
+    "despair"
+  ],
+  "glory": [
+    "joy",
+    "anger",
+    "pride"
+  ],
+  "glow": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "good": [
+    "joy",
+    "trust",
+    "love"
+  ],
+  "goodness": [
+    "joy",
+    "trust",
+    "love"
+  ],
+  "gory": [
+    "disgust",
+    "joy",
+    "morbidness"
+  ],
+  "grace": [
+    "joy",
+    "sadness",
+    "bittersweetness"
+  ],
+  "gradual": [
+    "anticipation",
+    "trust",
+    "hope"
+  ],
+  "grateful": [
+    "joy",
+    "anticipation",
+    "optimism"
+  ],
+  "grave": [
+    "disgust",
+    "joy",
+    "morbidness"
+  ],
+  "grief": [
+    "sadness",
+    "fear",
+    "despair"
+  ],
+  "groan": [
+    "fear",
+    "surprise",
+    "alarm"
+  ],
+  "grope": [
+    "anger",
+    "disgust",
+    "contempt"
+  ],
+  "gruesome": [
+    "disgust",
+    "joy",
+    "morbidness"
+  ],
+  "guidance": [
+    "trust",
+    "anticipation",
+    "hope"
+  ],
+  "guide": [
+    "trust",
+    "anticipation",
+    "hope"
+  ],
+  "guidebook": [
+    "trust",
+    "anticipation",
+    "hope"
+  ],
+  "gush": [
+    "surprise",
+    "fear",
+    "alarm"
+  ],
+  "handicap": [
+    "sadness",
+    "anticipation",
+    "pessimism"
+  ],
+  "happily": [
+    "joy",
+    "anticipation",
+    "optimism"
+  ],
+  "happy": [
+    "joy",
+    "anticipation",
+    "optimism"
+  ],
+  "harm": [
+    "fear",
+    "surprise",
+    "alarm"
+  ],
+  "harmony": [
+    "joy",
+    "trust",
+    "love"
+  ],
+  "hate": [
+    "anger",
+    "disgust",
+    "contempt"
+  ],
+  "haunt": [
+    "fear",
+    "sadness",
+    "despair"
+  ],
+  "headache": [
+    "sadness",
+    "surprise",
+    "disappointment"
+  ],
+  "heal": [
+    "joy",
+    "anticipation",
+    "optimism"
+  ],
+  "heartily": [
+    "joy",
+    "anticipation",
+    "optimism"
+  ],
+  "hell": [
+    "anger",
+    "disgust",
+    "contempt"
+  ],
+  "helmet": [
+    "joy",
+    "disgust",
+    "morbidness"
+  ],
+  "helpful": [
+    "joy",
+    "trust",
+    "love"
+  ],
+  "heritage": [
+    "trust",
+    "surprise",
+    "curiosity"
+  ],
+  "heroic": [
+    "joy",
+    "sadness",
+    "bittersweetness"
+  ],
+  "hesitation": [
+    "fear",
+    "anticipation",
+    "anxiety"
+  ],
+  "heyday": [
+    "anticipation",
+    "joy",
+    "optimism"
+  ],
+  "hilarious": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "honor": [
+    "joy",
+    "sadness",
+    "bittersweetness"
+  ],
+  "hope": [
+    "trust",
+    "anticipation",
+    "hope"
+  ],
+  "horrible": [
+    "fear",
+    "sadness",
+    "despair"
+  ],
+  "horribly": [
+    "fear",
+    "sadness",
+    "despair"
+  ],
+  "horrors": [
+    "fear",
+    "sadness",
+    "despair"
+  ],
+  "hostile": [
+    "anger",
+    "disgust",
+    "contempt"
+  ],
+  "humane": [
+    "trust",
+    "sadness",
+    "sentimentality"
+  ],
+  "humorous": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "hurt": [
+    "sadness",
+    "fear",
+    "despair"
+  ],
+  "hype": [
+    "anticipation",
+    "trust",
+    "hope"
+  ],
+  "ignorance": [
+    "sadness",
+    "anticipation",
+    "pessimism"
+  ],
+  "ignore": [
+    "sadness",
+    "anticipation",
+    "pessimism"
+  ],
+  "illuminate": [
+    "trust",
+    "surprise",
+    "curiosity"
+  ],
+  "illumination": [
+    "trust",
+    "surprise",
+    "curiosity"
+  ],
+  "imaginative": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "immense": [
+    "fear",
+    "trust",
+    "submission"
+  ],
+  "immerse": [
+    "trust",
+    "surprise",
+    "curiosity"
+  ],
+  "impart": [
+    "trust",
+    "anticipation",
+    "hope"
+  ],
+  "importance": [
+    "anticipation",
+    "trust",
+    "hope"
+  ],
+  "important": [
+    "anticipation",
+    "trust",
+    "hope"
+  ],
+  "impossible": [
+    "surprise",
+    "disgust",
+    "unbelief"
+  ],
+  "impress": [
+    "trust",
+    "fear",
+    "submission"
+  ],
+  "improvement": [
+    "joy",
+    "anticipation",
+    "optimism"
+  ],
+  "inadequate": [
+    "sadness",
+    "disgust",
+    "remorse"
+  ],
+  "inapplicable": [
+    "disgust",
+    "sadness",
+    "remorse"
+  ],
+  "incompetence": [
+    "anger",
+    "disgust",
+    "contempt"
+  ],
+  "inefficient": [
+    "anger",
+    "disgust",
+    "contempt"
+  ],
+  "infamous": [
+    "sadness",
+    "joy",
+    "bittersweetness"
+  ],
+  "infamy": [
+    "sadness",
+    "joy",
+    "bittersweetness"
+  ],
+  "infant": [
+    "trust",
+    "sadness",
+    "sentimentality"
+  ],
+  "infectious": [
+    "fear",
+    "anticipation",
+    "anxiety"
+  ],
+  "information": [
+    "trust",
+    "anticipation",
+    "hope"
+  ],
+  "ingenious": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "injure": [
+    "fear",
+    "surprise",
+    "alarm"
+  ],
+  "injury": [
+    "fear",
+    "surprise",
+    "alarm"
+  ],
+  "innovation": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "inquisitive": [
+    "trust",
+    "surprise",
+    "curiosity"
+  ],
+  "inspiration": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "inspire": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "instructions": [
+    "anticipation",
+    "trust",
+    "hope"
+  ],
+  "insufficiency": [
+    "sadness",
+    "surprise",
+    "disappointment"
+  ],
+  "intact": [
+    "trust",
+    "surprise",
+    "curiosity"
+  ],
+  "integrity": [
+    "trust",
+    "anticipation",
+    "hope"
+  ],
+  "intelligent": [
+    "trust",
+    "joy",
+    "love"
+  ],
+  "intense": [
+    "fear",
+    "surprise",
+    "alarm"
+  ],
+  "interest": [
+    "anticipation",
+    "trust",
+    "hope"
+  ],
+  "intimate": [
+    "trust",
+    "joy",
+    "love"
+  ],
+  "intolerance": [
+    "anger",
+    "anticipation",
+    "aggression"
+  ],
+  "intolerant": [
+    "anger",
+    "anticipation",
+    "aggression"
+  ],
+  "intrigue": [
+    "trust",
+    "surprise",
+    "curiosity"
+  ],
+  "intrusive": [
+    "anger",
+    "surprise",
+    "outrage"
+  ],
+  "invade": [
+    "anger",
+    "anticipation",
+    "aggression"
+  ],
+  "invasion": [
+    "fear",
+    "surprise",
+    "alarm"
+  ],
+  "invite": [
+    "anticipation",
+    "joy",
+    "optimism"
+  ],
+  "isolation": [
+    "sadness",
+    "fear",
+    "despair"
+  ],
+  "jerk": [
+    "anger",
+    "disgust",
+    "contempt"
+  ],
+  "joke": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "jump": [
+    "fear",
+    "surprise",
+    "alarm"
+  ],
+  "junk": [
+    "disgust",
+    "anticipation",
+    "cynism"
+  ],
+  "justice": [
+    "trust",
+    "anticipation",
+    "hope"
+  ],
+  "kick": [
+    "anger",
+    "surprise",
+    "outrage"
+  ],
+  "kill": [
+    "anger",
+    "sadness",
+    "envy"
+  ],
+  "kind": [
+    "joy",
+    "trust",
+    "love"
+  ],
+  "knowledge": [
+    "trust",
+    "surprise",
+    "curiosity"
+  ],
+  "kudos": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "label": [
+    "trust",
+    "surprise",
+    "curiosity"
+  ],
+  "lack": [
+    "sadness",
+    "surprise",
+    "disappointment"
+  ],
+  "lament": [
+    "sadness",
+    "fear",
+    "despair"
+  ],
+  "late": [
+    "sadness",
+    "surprise",
+    "disappointment"
+  ],
+  "laugh": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "lazy": [
+    "disgust",
+    "anger",
+    "contempt"
+  ],
+  "learn": [
+    "trust",
+    "surprise",
+    "curiosity"
+  ],
+  "leisure": [
+    "joy",
+    "anticipation",
+    "optimism"
+  ],
+  "leisurely": [
+    "joy",
+    "anticipation",
+    "optimism"
+  ],
+  "lesson": [
+    "trust",
+    "surprise",
+    "curiosity"
+  ],
+  "library": [
+    "trust",
+    "surprise",
+    "curiosity"
+  ],
+  "lie": [
+    "anger",
+    "disgust",
+    "contempt"
+  ],
+  "logical": [
+    "trust",
+    "anticipation",
+    "hope"
+  ],
+  "loom": [
+    "sadness",
+    "fear",
+    "despair"
+  ],
+  "loss": [
+    "sadness",
+    "fear",
+    "despair"
+  ],
+  "love": [
+    "joy",
+    "trust",
+    "love"
+  ],
+  "lovely": [
+    "joy",
+    "trust",
+    "love"
+  ],
+  "lover": [
+    "joy",
+    "trust",
+    "love"
+  ],
+  "loyalty": [
+    "trust",
+    "anticipation",
+    "hope"
+  ],
+  "luck": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "lucky": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "lure": [
+    "disgust",
+    "anticipation",
+    "cynism"
+  ],
+  "lurk": [
+    "fear",
+    "anticipation",
+    "anxiety"
+  ],
+  "madness": [
+    "anger",
+    "surprise",
+    "outrage"
+  ],
+  "magical": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "magnificence": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "magnificent": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "majestic": [
+    "trust",
+    "fear",
+    "submission"
+  ],
+  "majesty": [
+    "trust",
+    "fear",
+    "submission"
+  ],
+  "manners": [
+    "trust",
+    "anticipation",
+    "hope"
+  ],
+  "marriage": [
+    "joy",
+    "trust",
+    "love"
+  ],
+  "marvel": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "marvelous": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "marvelously": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "massage": [
+    "trust",
+    "surprise",
+    "curiosity"
+  ],
+  "master": [
+    "trust",
+    "fear",
+    "submission"
+  ],
+  "masterpiece": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "medical": [
+    "fear",
+    "anticipation",
+    "anxiety"
+  ],
+  "mediocre": [
+    "sadness",
+    "surprise",
+    "disappointment"
+  ],
+  "memorable": [
+    "trust",
+    "surprise",
+    "curiosity"
+  ],
+  "mess": [
+    "disgust",
+    "anger",
+    "contempt"
+  ],
+  "mindful": [
+    "anticipation",
+    "trust",
+    "hope"
+  ],
+  "miracle": [
+    "surprise",
+    "joy",
+    "delight"
+  ],
+  "miraculous": [
+    "surprise",
+    "joy",
+    "delight"
+  ],
+  "miserable": [
+    "sadness",
+    "fear",
+    "despair"
+  ],
+  "mistake": [
+    "sadness",
+    "disgust",
+    "remorse"
+  ],
+  "misuse": [
+    "anger",
+    "surprise",
+    "outrage"
+  ],
+  "moan": [
+    "fear",
+    "surprise",
+    "alarm"
+  ],
+  "model": [
+    "trust",
+    "surprise",
+    "curiosity"
+  ],
+  "monument": [
+    "trust",
+    "surprise",
+    "curiosity"
+  ],
+  "muck": [
+    "disgust",
+    "anger",
+    "contempt"
+  ],
+  "muddy": [
+    "disgust",
+    "anger",
+    "contempt"
+  ],
+  "mumble": [
+    "sadness",
+    "surprise",
+    "disappointment"
+  ],
+  "murky": [
+    "disgust",
+    "joy",
+    "morbidness"
+  ],
+  "music": [
+    "joy",
+    "anticipation",
+    "optimism"
+  ],
+  "musical": [
+    "joy",
+    "anticipation",
+    "optimism"
+  ],
+  "mysterious": [
+    "fear",
+    "trust",
+    "submission"
+  ],
+  "nameless": [
+    "sadness",
+    "trust",
+    "sentimentality"
+  ],
+  "nation": [
+    "trust",
+    "joy",
+    "love"
+  ],
+  "negative": [
+    "sadness",
+    "surprise",
+    "disappointment"
+  ],
+  "nerve": [
+    "fear",
+    "anticipation",
+    "anxiety"
+  ],
+  "nightmare": [
+    "fear",
+    "sadness",
+    "despair"
+  ],
+  "noise": [
+    "anger",
+    "disgust",
+    "contempt"
+  ],
+  "noisy": [
+    "anger",
+    "disgust",
+    "contempt"
+  ],
+  "objective": [
+    "anticipation",
+    "trust",
+    "hope"
+  ],
+  "obscene": [
+    "anger",
+    "surprise",
+    "outrage"
+  ],
+  "opinionated": [
+    "anger",
+    "disgust",
+    "contempt"
+  ],
+  "opportunity": [
+    "trust",
+    "surprise",
+    "curiosity"
+  ],
+  "orderly": [
+    "joy",
+    "anticipation",
+    "optimism"
+  ],
+  "originality": [
+    "surprise",
+    "joy",
+    "delight"
+  ],
+  "outrageous": [
+    "anger",
+    "surprise",
+    "outrage"
+  ],
+  "outstanding": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "overdo": [
+    "disgust",
+    "anticipation",
+    "cynism"
+  ],
+  "overdue": [
+    "sadness",
+    "anticipation",
+    "pessimism"
+  ],
+  "overload": [
+    "disgust",
+    "anticipation",
+    "cynism"
+  ],
+  "overpower": [
+    "fear",
+    "trust",
+    "submission"
+  ],
+  "overwhelm": [
+    "fear",
+    "surprise",
+    "alarm"
+  ],
+  "pain": [
+    "sadness",
+    "fear",
+    "despair"
+  ],
+  "painful": [
+    "sadness",
+    "fear",
+    "despair"
+  ],
+  "painfully": [
+    "sadness",
+    "fear",
+    "despair"
+  ],
+  "panic": [
+    "fear",
+    "surprise",
+    "alarm"
+  ],
+  "passion": [
+    "joy",
+    "anticipation",
+    "optimism"
+  ],
+  "passionate": [
+    "joy",
+    "anticipation",
+    "optimism"
+  ],
+  "patience": [
+    "anticipation",
+    "trust",
+    "hope"
+  ],
+  "patient": [
+    "anticipation",
+    "trust",
+    "hope"
+  ],
+  "peace": [
+    "trust",
+    "joy",
+    "love"
+  ],
+  "peaceful": [
+    "trust",
+    "joy",
+    "love"
+  ],
+  "perfect": [
+    "joy",
+    "anticipation",
+    "optimism"
+  ],
+  "perfection": [
+    "joy",
+    "anticipation",
+    "optimism"
+  ],
+  "perish": [
+    "sadness",
+    "fear",
+    "despair"
+  ],
+  "perpetuate": [
+    "anticipation",
+    "sadness",
+    "pessimism"
+  ],
+  "persistence": [
+    "anticipation",
+    "joy",
+    "optimism"
+  ],
+  "pertinent": [
+    "anticipation",
+    "trust",
+    "hope"
+  ],
+  "pinnacle": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "pity": [
+    "sadness",
+    "surprise",
+    "disappointment"
+  ],
+  "plague": [
+    "sadness",
+    "fear",
+    "despair"
+  ],
+  "pleasant": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "pleasurable": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "plentiful": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "pointless": [
+    "sadness",
+    "surprise",
+    "disappointment"
+  ],
+  "polish": [
+    "anticipation",
+    "joy",
+    "optimism"
+  ],
+  "polite": [
+    "joy",
+    "trust",
+    "love"
+  ],
+  "pompous": [
+    "disgust",
+    "anger",
+    "contempt"
+  ],
+  "poorly": [
+    "sadness",
+    "surprise",
+    "disappointment"
+  ],
+  "powerful": [
+    "fear",
+    "trust",
+    "submission"
+  ],
+  "praise": [
+    "joy",
+    "trust",
+    "love"
+  ],
+  "precaution": [
+    "anticipation",
+    "sadness",
+    "pessimism"
+  ],
+  "precious": [
+    "trust",
+    "joy",
+    "love"
+  ],
+  "prefer": [
+    "trust",
+    "anticipation",
+    "hope"
+  ],
+  "prepare": [
+    "anticipation",
+    "sadness",
+    "pessimism"
+  ],
+  "preserve": [
+    "anticipation",
+    "trust",
+    "hope"
+  ],
+  "pressure": [
+    "fear",
+    "anticipation",
+    "anxiety"
+  ],
+  "pretty": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "prevent": [
+    "anticipation",
+    "joy",
+    "optimism"
+  ],
+  "pride": [
+    "joy",
+    "anger",
+    "pride"
+  ],
+  "pristine": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "problem": [
+    "disgust",
+    "anger",
+    "contempt"
+  ],
+  "profession": [
+    "trust",
+    "anticipation",
+    "hope"
+  ],
+  "professional": [
+    "trust",
+    "anticipation",
+    "hope"
+  ],
+  "professor": [
+    "trust",
+    "fear",
+    "submission"
+  ],
+  "progress": [
+    "anticipation",
+    "joy",
+    "optimism"
+  ],
+  "promise": [
+    "anticipation",
+    "joy",
+    "optimism"
+  ],
+  "protect": [
+    "anticipation",
+    "trust",
+    "hope"
+  ],
+  "protective": [
+    "anticipation",
+    "trust",
+    "hope"
+  ],
+  "proud": [
+    "joy",
+    "anger",
+    "pride"
+  ],
+  "questionable": [
+    "disgust",
+    "trust",
+    "ambivalence"
+  ],
+  "rainy": [
+    "sadness",
+    "surprise",
+    "disappointment"
+  ],
+  "rat": [
+    "disgust",
+    "fear",
+    "shame"
+  ],
+  "rave": [
+    "disgust",
+    "anger",
+    "contempt"
+  ],
+  "ready": [
+    "anticipation",
+    "trust",
+    "hope"
+  ],
+  "real": [
+    "trust",
+    "surprise",
+    "curiosity"
+  ],
+  "reappear": [
+    "surprise",
+    "trust",
+    "curiosity"
+  ],
+  "reassure": [
+    "trust",
+    "anticipation",
+    "hope"
+  ],
+  "reclamation": [
+    "anger",
+    "surprise",
+    "outrage"
+  ],
+  "recommend": [
+    "trust",
+    "anticipation",
+    "hope"
+  ],
+  "reconstruct": [
+    "anticipation",
+    "trust",
+    "hope"
+  ],
+  "reconstruction": [
+    "anticipation",
+    "trust",
+    "hope"
+  ],
+  "recovery": [
+    "surprise",
+    "joy",
+    "delight"
+  ],
+  "recreation": [
+    "anticipation",
+    "joy",
+    "optimism"
+  ],
+  "refurbish": [
+    "anticipation",
+    "trust",
+    "hope"
+  ],
+  "refuse": [
+    "anger",
+    "disgust",
+    "contempt"
+  ],
+  "regret": [
+    "sadness",
+    "disgust",
+    "remorse"
+  ],
+  "relevant": [
+    "trust",
+    "anticipation",
+    "hope"
+  ],
+  "relics": [
+    "trust",
+    "surprise",
+    "curiosity"
+  ],
+  "relief": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "reluctant": [
+    "disgust",
+    "trust",
+    "ambivalence"
+  ],
+  "remarkable": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "remarkably": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "renovate": [
+    "anticipation",
+    "trust",
+    "hope"
+  ],
+  "renovation": [
+    "anticipation",
+    "trust",
+    "hope"
+  ],
+  "replete": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "rescue": [
+    "anticipation",
+    "trust",
+    "hope"
+  ],
+  "resent": [
+    "disgust",
+    "sadness",
+    "remorse"
+  ],
+  "respect": [
+    "trust",
+    "joy",
+    "love"
+  ],
+  "respectful": [
+    "trust",
+    "joy",
+    "love"
+  ],
+  "resplendent": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "restrict": [
+    "sadness",
+    "surprise",
+    "disappointment"
+  ],
+  "restrictive": [
+    "sadness",
+    "surprise",
+    "disappointment"
+  ],
+  "retain": [
+    "anticipation",
+    "trust",
+    "hope"
+  ],
+  "reverence": [
+    "trust",
+    "fear",
+    "submission"
+  ],
+  "revolutionary": [
+    "trust",
+    "surprise",
+    "curiosity"
+  ],
+  "reward": [
+    "anticipation",
+    "joy",
+    "optimism"
+  ],
+  "ridiculous": [
+    "anger",
+    "disgust",
+    "contempt"
+  ],
+  "rightly": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "risk": [
+    "fear",
+    "anticipation",
+    "anxiety"
+  ],
+  "robbery": [
+    "anger",
+    "disgust",
+    "contempt"
+  ],
+  "rot": [
+    "disgust",
+    "fear",
+    "shame"
+  ],
+  "ruin": [
+    "trust",
+    "surprise",
+    "curiosity"
+  ],
+  "rule": [
+    "trust",
+    "fear",
+    "submission"
+  ],
+  "sadly": [
+    "sadness",
+    "surprise",
+    "disappointment"
+  ],
+  "safe": [
+    "trust",
+    "joy",
+    "love"
+  ],
+  "salient": [
+    "trust",
+    "surprise",
+    "curiosity"
+  ],
+  "save": [
+    "anticipation",
+    "trust",
+    "hope"
+  ],
+  "savor": [
+    "joy",
+    "anticipation",
+    "optimism"
+  ],
+  "scar": [
+    "fear",
+    "surprise",
+    "alarm"
+  ],
+  "sceptical": [
+    "disgust",
+    "anticipation",
+    "cynism"
+  ],
+  "scientific": [
+    "trust",
+    "anticipation",
+    "hope"
+  ],
+  "scientist": [
+    "trust",
+    "anticipation",
+    "hope"
+  ],
+  "score": [
+    "anticipation",
+    "joy",
+    "optimism"
+  ],
+  "sculpture": [
+    "trust",
+    "surprise",
+    "curiosity"
+  ],
+  "seal": [
+    "trust",
+    "surprise",
+    "curiosity"
+  ],
+  "secrete": [
+    "trust",
+    "surprise",
+    "curiosity"
+  ],
+  "sensational": [
+    "trust",
+    "surprise",
+    "curiosity"
+  ],
+  "sense": [
+    "trust",
+    "surprise",
+    "curiosity"
+  ],
+  "sentimental": [
+    "trust",
+    "sadness",
+    "sentimentality"
+  ],
+  "seriousness": [
+    "trust",
+    "anticipation",
+    "hope"
+  ],
+  "shame": [
+    "disgust",
+    "fear",
+    "shame"
+  ],
+  "shine": [
+    "surprise",
+    "joy",
+    "delight"
+  ],
+  "ship": [
+    "trust",
+    "surprise",
+    "curiosity"
+  ],
+  "shipwreck": [
+    "trust",
+    "sadness",
+    "sentimentality"
+  ],
+  "shiver": [
+    "fear",
+    "surprise",
+    "alarm"
+  ],
+  "shock": [
+    "fear",
+    "surprise",
+    "alarm"
+  ],
+  "shout": [
+    "anger",
+    "surprise",
+    "outrage"
+  ],
+  "shroud": [
+    "sadness",
+    "trust",
+    "sentimentality"
+  ],
+  "sick": [
+    "disgust",
+    "anger",
+    "contempt"
+  ],
+  "sing": [
+    "anticipation",
+    "joy",
+    "optimism"
+  ],
+  "skeptical": [
+    "disgust",
+    "anticipation",
+    "cynism"
+  ],
+  "skilled": [
+    "trust",
+    "anticipation",
+    "hope"
+  ],
+  "skip": [
+    "sadness",
+    "anticipation",
+    "pessimism"
+  ],
+  "slip": [
+    "surprise",
+    "sadness",
+    "disappointment"
+  ],
+  "slop": [
+    "fear",
+    "surprise",
+    "alarm"
+  ],
+  "sludge": [
+    "disgust",
+    "surprise",
+    "unbelief"
+  ],
+  "small": [
+    "sadness",
+    "surprise",
+    "disappointment"
+  ],
+  "smell": [
+    "anger",
+    "disgust",
+    "contempt"
+  ],
+  "smile": [
+    "joy",
+    "trust",
+    "love"
+  ],
+  "snake": [
+    "disgust",
+    "fear",
+    "shame"
+  ],
+  "snob": [
+    "disgust",
+    "anger",
+    "contempt"
+  ],
+  "soak": [
+    "sadness",
+    "surprise",
+    "disappointment"
+  ],
+  "solution": [
+    "anticipation",
+    "trust",
+    "hope"
+  ],
+  "somber": [
+    "sadness",
+    "fear",
+    "despair"
+  ],
+  "sore": [
+    "disgust",
+    "sadness",
+    "remorse"
+  ],
+  "spacious": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "special": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "specialist": [
+    "trust",
+    "surprise",
+    "curiosity"
+  ],
+  "spectacle": [
+    "trust",
+    "surprise",
+    "curiosity"
+  ],
+  "spectacular": [
+    "trust",
+    "surprise",
+    "curiosity"
+  ],
+  "spirit": [
+    "sadness",
+    "trust",
+    "sentimentality"
+  ],
+  "spite": [
+    "anger",
+    "surprise",
+    "outrage"
+  ],
+  "splendid": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "splendor": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "stagger": [
+    "fear",
+    "anticipation",
+    "anxiety"
+  ],
+  "stain": [
+    "disgust",
+    "fear",
+    "shame"
+  ],
+  "star": [
+    "trust",
+    "surprise",
+    "curiosity"
+  ],
+  "stately": [
+    "trust",
+    "fear",
+    "submission"
+  ],
+  "statue": [
+    "trust",
+    "surprise",
+    "curiosity"
+  ],
+  "sterile": [
+    "sadness",
+    "disgust",
+    "remorse"
+  ],
+  "storm": [
+    "surprise",
+    "sadness",
+    "disappointment"
+  ],
+  "straightforward": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "strength": [
+    "trust",
+    "fear",
+    "submission"
+  ],
+  "strengthen": [
+    "anticipation",
+    "trust",
+    "hope"
+  ],
+  "strikingly": [
+    "surprise",
+    "fear",
+    "alarm"
+  ],
+  "struggle": [
+    "anger",
+    "fear",
+    "frozenness"
+  ],
+  "subdue": [
+    "fear",
+    "trust",
+    "submission"
+  ],
+  "succeed": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "success": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "successful": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "suck": [
+    "sadness",
+    "surprise",
+    "disappointment"
+  ],
+  "suffer": [
+    "sadness",
+    "fear",
+    "despair"
+  ],
+  "sullen": [
+    "fear",
+    "sadness",
+    "despair"
+  ],
+  "superb": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "superior": [
+    "fear",
+    "trust",
+    "submission"
+  ],
+  "surcharge": [
+    "anger",
+    "disgust",
+    "contempt"
+  ],
+  "surprise": [
+    "surprise",
+    "trust",
+    "curiosity"
+  ],
+  "surprisingly": [
+    "surprise",
+    "trust",
+    "curiosity"
+  ],
+  "survive": [
+    "trust",
+    "sadness",
+    "sentimentality"
+  ],
+  "suspect": [
+    "fear",
+    "anticipation",
+    "anxiety"
+  ],
+  "suspicious": [
+    "fear",
+    "anticipation",
+    "anxiety"
+  ],
+  "sweat": [
+    "disgust",
+    "anger",
+    "contempt"
+  ],
+  "sweet": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "swift": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "symmetrical": [
+    "joy",
+    "anticipation",
+    "optimism"
+  ],
+  "symmetry": [
+    "joy",
+    "anticipation",
+    "optimism"
+  ],
+  "sympathetic": [
+    "joy",
+    "trust",
+    "love"
+  ],
+  "sympathy": [
+    "sadness",
+    "trust",
+    "sentimentality"
+  ],
+  "syringe": [
+    "fear",
+    "sadness",
+    "despair"
+  ],
+  "tact": [
+    "trust",
+    "sadness",
+    "sentimentality"
+  ],
+  "tale": [
+    "trust",
+    "surprise",
+    "curiosity"
+  ],
+  "talk": [
+    "trust",
+    "surprise",
+    "curiosity"
+  ],
+  "tasteful": [
+    "joy",
+    "sadness",
+    "bittersweetness"
+  ],
+  "tasteless": [
+    "disgust",
+    "surprise",
+    "unbelief"
+  ],
+  "teach": [
+    "trust",
+    "surprise",
+    "curiosity"
+  ],
+  "teacher": [
+    "trust",
+    "surprise",
+    "curiosity"
+  ],
+  "technology": [
+    "trust",
+    "surprise",
+    "curiosity"
+  ],
+  "tenacious": [
+    "anticipation",
+    "fear",
+    "anxiety"
+  ],
+  "terrible": [
+    "sadness",
+    "fear",
+    "despair"
+  ],
+  "terribly": [
+    "sadness",
+    "fear",
+    "despair"
+  ],
+  "terrific": [
+    "fear",
+    "trust",
+    "submission"
+  ],
+  "testament": [
+    "anticipation",
+    "trust",
+    "hope"
+  ],
+  "testimony": [
+    "trust",
+    "surprise",
+    "curiosity"
+  ],
+  "thief": [
+    "anger",
+    "disgust",
+    "contempt"
+  ],
+  "thirst": [
+    "anticipation",
+    "sadness",
+    "pessimism"
+  ],
+  "thoughtful": [
+    "joy",
+    "anticipation",
+    "optimism"
+  ],
+  "threat": [
+    "fear",
+    "anticipation",
+    "anxiety"
+  ],
+  "thrill": [
+    "fear",
+    "surprise",
+    "alarm"
+  ],
+  "topple": [
+    "surprise",
+    "sadness",
+    "disappointment"
+  ],
+  "tough": [
+    "sadness",
+    "surprise",
+    "disappointment"
+  ],
+  "traditional": [
+    "anticipation",
+    "trust",
+    "hope"
+  ],
+  "tragedy": [
+    "fear",
+    "sadness",
+    "despair"
+  ],
+  "tragic": [
+    "fear",
+    "sadness",
+    "despair"
+  ],
+  "treasure": [
+    "anticipation",
+    "joy",
+    "optimism"
+  ],
+  "treat": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "tremendously": [
+    "fear",
+    "surprise",
+    "alarm"
+  ],
+  "trepidation": [
+    "fear",
+    "surprise",
+    "alarm"
+  ],
+  "tribute": [
+    "trust",
+    "fear",
+    "submission"
+  ],
+  "triumph": [
+    "joy",
+    "anger",
+    "pride"
+  ],
+  "truth": [
+    "trust",
+    "anticipation",
+    "hope"
+  ],
+  "truthful": [
+    "trust",
+    "anticipation",
+    "hope"
+  ],
+  "unable": [
+    "sadness",
+    "surprise",
+    "disappointment"
+  ],
+  "unaware": [
+    "surprise",
+    "trust",
+    "curiosity"
+  ],
+  "unbelievable": [
+    "surprise",
+    "disgust",
+    "unbelief"
+  ],
+  "uncomfortable": [
+    "anger",
+    "disgust",
+    "contempt"
+  ],
+  "uncover": [
+    "surprise",
+    "trust",
+    "curiosity"
+  ],
+  "uneasy": [
+    "disgust",
+    "anger",
+    "contempt"
+  ],
+  "uneven": [
+    "disgust",
+    "anger",
+    "contempt"
+  ],
+  "unexpected": [
+    "surprise",
+    "fear",
+    "alarm"
+  ],
+  "unexpectedly": [
+    "surprise",
+    "fear",
+    "alarm"
+  ],
+  "unfair": [
+    "anger",
+    "disgust",
+    "contempt"
+  ],
+  "unfinished": [
+    "anger",
+    "disgust",
+    "contempt"
+  ],
+  "unfold": [
+    "trust",
+    "anticipation",
+    "hope"
+  ],
+  "unfortunate": [
+    "sadness",
+    "surprise",
+    "disappointment"
+  ],
+  "unfriendly": [
+    "anger",
+    "disgust",
+    "contempt"
+  ],
+  "uninteresting": [
+    "sadness",
+    "surprise",
+    "disappointment"
+  ],
+  "unique": [
+    "surprise",
+    "joy",
+    "delight"
+  ],
+  "unlimited": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "unlucky": [
+    "sadness",
+    "surprise",
+    "disappointment"
+  ],
+  "unprepared": [
+    "sadness",
+    "surprise",
+    "disappointment"
+  ],
+  "unsafe": [
+    "anger",
+    "surprise",
+    "outrage"
+  ],
+  "unsuitable": [
+    "sadness",
+    "surprise",
+    "disappointment"
+  ],
+  "unsuspecting": [
+    "fear",
+    "surprise",
+    "alarm"
+  ],
+  "untimely": [
+    "sadness",
+    "surprise",
+    "disappointment"
+  ],
+  "untold": [
+    "surprise",
+    "trust",
+    "curiosity"
+  ],
+  "unwell": [
+    "sadness",
+    "surprise",
+    "disappointment"
+  ],
+  "upright": [
+    "sadness",
+    "disgust",
+    "remorse"
+  ],
+  "upset": [
+    "anger",
+    "surprise",
+    "outrage"
+  ],
+  "useless": [
+    "sadness",
+    "surprise",
+    "disappointment"
+  ],
+  "vague": [
+    "sadness",
+    "surprise",
+    "disappointment"
+  ],
+  "validity": [
+    "trust",
+    "anticipation",
+    "hope"
+  ],
+  "valuable": [
+    "trust",
+    "surprise",
+    "curiosity"
+  ],
+  "vertigo": [
+    "fear",
+    "anticipation",
+    "anxiety"
+  ],
+  "victory": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "virtue": [
+    "trust",
+    "fear",
+    "submission"
+  ],
+  "vision": [
+    "trust",
+    "anticipation",
+    "hope"
+  ],
+  "visionary": [
+    "trust",
+    "surprise",
+    "curiosity"
+  ],
+  "vivid": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "warn": [
+    "anticipation",
+    "anger",
+    "aggression"
+  ],
+  "warrior": [
+    "fear",
+    "trust",
+    "submission"
+  ],
+  "wary": [
+    "sadness",
+    "joy",
+    "bittersweetness"
+  ],
+  "waste": [
+    "disgust",
+    "anger",
+    "contempt"
+  ],
+  "wealth": [
+    "joy",
+    "anticipation",
+    "optimism"
+  ],
+  "weary": [
+    "sadness",
+    "anger",
+    "envy"
+  ],
+  "wench": [
+    "anger",
+    "disgust",
+    "contempt"
+  ],
+  "white": [
+    "anticipation",
+    "joy",
+    "optimism"
+  ],
+  "wild": [
+    "surprise",
+    "fear",
+    "alarm"
+  ],
+  "winner": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "wise": [
+    "anticipation",
+    "trust",
+    "hope"
+  ],
+  "withstand": [
+    "anticipation",
+    "fear",
+    "anxiety"
+  ],
+  "witness": [
+    "trust",
+    "anticipation",
+    "hope"
+  ],
+  "witty": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "wonderful": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "wonderfully": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "wondrous": [
+    "joy",
+    "surprise",
+    "delight"
+  ],
+  "worry": [
+    "anticipation",
+    "fear",
+    "anxiety"
+  ],
+  "worse": [
+    "sadness",
+    "surprise",
+    "disappointment"
+  ],
+  "worth": [
+    "trust",
+    "anticipation",
+    "hope"
+  ],
+  "worthy": [
+    "trust",
+    "anticipation",
+    "hope"
+  ],
+  "wound": [
+    "anger",
+    "fear",
+    "frozenness"
+  ],
+  "wreak": [
+    "fear",
+    "surprise",
+    "alarm"
+  ],
+  "wreck": [
+    "surprise",
+    "trust",
+    "curiosity"
+  ],
+  "wrong": [
+    "anger",
+    "disgust",
+    "contempt"
+  ],
+  "yell": [
+    "anger",
+    "surprise",
+    "outrage"
+  ]
+}
