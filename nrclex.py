@@ -6,9 +6,10 @@
 # Determine word affect based on the NRC emotional lexicon
 # Library is built on TextBlob
 
-from textblob import TextBlob
 from collections import Counter
 from json import load
+import os
+from textblob import TextBlob
 
 
 def __build_word_affect__(self):
@@ -55,7 +56,7 @@ def top_emotions(self):
 class NRCLex:
     """Lexicon source is (C) 2016 National Research Council Canada (NRC) and library is for research purposes only.  Source: http://sentiment.nrc.ca/lexicons-for-research/"""
 
-    def __init__(self, lexicon_file='heritage_dict.json'):
+    def __init__(self, lexicon_file=os.path.abspath('heritage_dict.json')):
         with open(lexicon_file, 'r') as json_file:
             self.__lexicon__ = load(json_file)
 
